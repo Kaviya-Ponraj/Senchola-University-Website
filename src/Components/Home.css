@@ -885,6 +885,7 @@
     .section4__left{
         height:100%;
     }
+    
     .pro_pic{
         height:25px;
         width:25px;
@@ -937,6 +938,10 @@
 
     .section4__img{
         width: 80%;
+    }
+
+    .span2{
+        gap: 1%;
     }
 
     .glassmorphism{
